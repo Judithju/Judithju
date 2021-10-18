@@ -11,3 +11,7 @@
 # this is what I added (JUDITH)
 
 ## We add words by words, we learn, we drink coffee
+
+### now we need to make mistakes, in order to understand how to go back to previous versions.
+# the commands are:
+ reset, restore, revert
