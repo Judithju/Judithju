@@ -14,4 +14,4 @@
 
 ### now we need to make mistakes, in order to understand how to go back to previous versions.
 # the commands are:
- reset, restore, revert
+ # reset, restore, revert
